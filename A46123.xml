@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas by several proclamations issued from this board, all persons of the popish religion in this kingdom who had or kept any halberts, pikes, musquets, calivers, fowling pieces, carbins, pistols, or other guns whatsoever without licence from the lord lieutenant ...</title>
+            <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46123</idno>
+            <idno type="STC">Wing I750</idno>
+            <idno type="STC">ESTC R36848</idno>
+            <idno type="EEBO-CITATION">16141876</idno>
+            <idno type="OCLC">ocm 16141876</idno>
+            <idno type="VID">104832</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104832)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas by several proclamations issued from this board, all persons of the popish religion in this kingdom who had or kept any halberts, pikes, musquets, calivers, fowling pieces, carbins, pistols, or other guns whatsoever without licence from the lord lieutenant ...</title>
+                  <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[4] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Took and John Crook ... and are to be sold by Mary Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 7 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council-chamber in Dublin the 29th. day of November, 1680"--leaf [4]</note>
+                  <note>Broadside in [4] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Firearms --  Law and legislation --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104832:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>BY THE Lord Lieutenant AND COUNCIL.</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Whereas by ſeveral Proclamations Iſſued from this Board, all perſons of the Popiſh Religion in this Kingdom, who had or kept any Halberts, Pikes, Musquets, Calivers, Fowling pieces, carbins, piſtols, or other Guns whatſoever without Licence from the Lord Lieutenant, or other Chief Governor or Governors of this Kingdom, were requi<g ref="char:EOLhyphen"/>red within a time therein limited, to bring or cauſe to be brought all ſuch Arms into one of his Majeſties ſtores of Ordnance and muniti<g ref="char:EOLhyphen"/>on, or deliver the ſame to ſuch perſons in the ſeveral Counties of this Kingdom as were by Vs Authorized to receive the ſame<g ref="char:punc">▪</g> And all and every the Sheriffs &amp; Iuſtices of the Peace of the ſeveral counties of this King<g ref="char:EOLhyphen"/>dom, &amp; all &amp; every the Officers of his Majeſties Army, were alſo there<g ref="char:EOLhyphen"/>by required to Search for, and ſeize upon, &amp; ſecure all ſuch Arms as after the dayes therein Limited for bringing in the ſame, ſhould be in the poſſeſ<g ref="char:EOLhyphen"/>ſion of, or belonging to any perſon or perſons of the Popiſh Religion who, had no ſuch Licences to keep the ſame.</p>
+            <p>And whereas We are informed that ſeveral ſuch Arms do now re<g ref="char:EOLhyphen"/>main in the hands of divers perſons of the Popiſh Religion in this Kingdom, either without any ſuch Lycences or under pretence of ſuch Lycences as have been granted to ſome perſons for keeping the ſame, We have thought fit hereby to revoke and determine all ſuch Lycen<g ref="char:EOLhyphen"/>ces, as have been at any time heretofore granted by Vs the ſaid Lieu<g ref="char:EOLhyphen"/>tenant or other Chief Governour or Governors of this Kingdom, to any perſon or perſons whatſoever of the Popiſh Religion in this Kingdom, to ride with, carry, buy, or keep in his or their houſe or houſes, or elſe where any ſuch Arms.</p>
+            <p>And We do hereby require all and every ſuch perſon and Per<g ref="char:EOLhyphen"/>ſons of the Popiſh Religion, to whom any ſuch Lycences have been granted, that within twenty dayes after the date of this Proclamation, upon pain of his Majeſties High diſpleaſure, they do bring or cauſe to be brought all ſuch Arms for which they have any ſuch Lycences into one of his Majeſties Stores of Ordnance and Munition in this Kingdom, or deliver the ſame to ſuch Perſons in the ſeveral Counties of this Kingdom, as are by Vs Authorized to receive the ſame, and at the ſame time do produce their ſaid Licences or true Coppies of them. And for the better Conveniency of ſuch of His Majeſties ſubjects who are hereby required to bring in their ſaid Arms, the ſeveral perſons under<g ref="char:EOLhyphen"/>named, or any of them are appointed by Vs, in the ſeveral Counties of this Kingdom, to receive ſuch Arms, as in purſuance of this Proclamation, ſhall be brought in or delivered to them, who as well at the Clerks of his Majeſties ſeveral Stores of Ordnance, and munition, are to give acknow<g ref="char:EOLhyphen"/>ledgements under their hands of ſuch Arms as ſhall be brought to them, or any of them, expresſing therein, the kind, qualities, and condition thereof, And alſo to mark the names of ſuch perſons upon the ſaid Arms, within ſix weekes from the date hereof, and from time to time, after to give Vs an Exact accompt of the Number and kind of Arms, expreſſed in the ſaid Licences of what Arms they ſhall receive from the perſons to whom ſuch Licences were granted <hi>viz</hi>
+            </p>
+            <pb facs="tcp:104832:2"/>
+            <list>
+               <item>For the County and City of Dublin Sir <hi>Thomas Worſopp</hi> Knight, Cap<g ref="char:EOLhyphen"/>tain <hi>Robert Moulſworth,</hi> and <hi>Phillip Caſtelton,</hi> Eſquires.</item>
+               <item>For the County of Kildare, <hi>Robert Meredith, John Aylmer,</hi> and <hi>Maurice Keating,</hi> Eſquires.</item>
+               <item>For the County of Meath, <hi>Arthur Dillon, James Stopſord, Arthur Meredith,</hi> and <hi>Stafford Lightborne,</hi> Eſquires.</item>
+               <item>For the County of Wicklow, <hi>William Hoey, William Mathews, Henry Temple</hi> and <hi>Phillip Packenham,</hi> Eſquires.</item>
+               <item>For the County of Catherlogh, Sir <hi>Thomas Butler</hi> Baronet, <hi>Henry Smithwick,</hi> and <hi>Henry Barkeley,</hi> Eſquires.</item>
+               <item>For the Kings County, Sir <hi>Francis Blundell</hi> Baronet, <hi>John Weaver,</hi> and <hi>Richard Warburton</hi> Eſquires.</item>
+               <item>For the Queenes County, <hi>William Bowen, Henry Gilbert,</hi> and <hi>Robert Hodges</hi> Eſquires.</item>
+               <item>For the County of Longford, Sir <hi>Thomas Newcomen</hi> Baronet, <hi>Nicholas Dowdall,</hi> and <hi>Robert Choppin,</hi> Eſquires.</item>
+               <item>For the County of Weſtmeath, <hi>William Peirſe, William Murry, James Leigh,</hi> and <hi>Robert Cooke,</hi> Eſquires,</item>
+               <item>For the County and City of Kilkenny, Sir <hi>Henry Weymes,</hi> Sir <hi>Henry Ponſonby,</hi> Captain <hi>John Baxter,</hi> and <hi>Bryan Manſer,</hi> Eſquires.</item>
+               <item>For the County and Town of <hi>Wexford,</hi> Sir <hi>Nicholas Loftus, John Tench,</hi> and <hi>William Ivory</hi> Eſquires.</item>
+               <item>For the County of <hi>Lowth,</hi> and Town of <hi>Drogheda,</hi> Sir <hi>William Titchburn, Richard Bolton, Thomas Bellingham, Thomas Moore,</hi> Eſquires, and Alderman <hi>Edward Singleton.</hi>
+               </item>
+               <item>For the County of <hi>Clare, Giles Vandelure, Samuel Burton, Donnoch O Bryen,</hi> of <hi>Lineneagh,</hi> and <hi>Henry Leigh</hi> Eſquires.</item>
+               <item>For the County and City of <hi>Cork,</hi> Sir <hi>Richard Kerle,</hi> Sir <hi>Richard Hull, Emanuell Moore, Redmond Barry, Alexander Pigott, and Arthur Hide</hi> Eſquires,</item>
+               <item>For the County &amp; City of <hi>Waterford, Nicholas Osborn, James Mutlow,</hi> and <hi>Andrew Lynn,</hi> Eſquires.</item>
+               <item>For the County of <hi>Kerry,</hi> Sir <hi>Thomas, Croſby</hi> Sir <hi>Francis Brewſter, Anthony Reymond, Frederick Mullins, and Robert Blene<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>haſſett,</hi> Eſquires.</item>
+               <item>For the County and City of <hi>Lymerick,</hi> Sir <hi>George Ingoldsby,</hi> Sir <hi>William King, Symon Eaton,</hi> and <hi>Richard Magwire</hi> Eſquire.</item>
+               <item>For the County of <hi>Tipperary,</hi> Sir <hi>Robert Cole, Symon Finch, Bartholomew Fowkes, Stephen Moore,</hi> and <hi>Francis Legg,</hi> Eſquires.</item>
+               <item>For the County and Town of <hi>Gallway,</hi> Sir <hi>Henry Waddington, Charles Holcroft, Edward Eyres John Eyres Junior,</hi> and <hi>Adam Purdon</hi> Eſquires.</item>
+               <item>For the County of <hi>Mayo,</hi> Sir <hi>George Bingham,</hi> Sir <hi>Arthur Gore, Gilbert Ormſby</hi> and <hi>John Crofton,</hi> Eſquires.</item>
+               <item>For the County of <hi>Sligoe, Charles Collis, Robert Gore,</hi> and <hi>Roger Smith,</hi> Eſquires.</item>
+               <item>For the County of <hi>Roſcomon, Thomas Caulfeild, James King,</hi> and <hi>Edward Donollan</hi> Eſquires.</item>
+               <item>For the County of <hi>Leitrim, Bryan Connigham, Robert Galbraith,</hi> and <hi>Benjamin Fletcher</hi> Eſquires.</item>
+               <item>For the County of <hi>Down, William Hamilton, William Brett,</hi> and <hi>James Leſley,</hi> Eſquires.</item>
+               <item>For the County of <hi>Antrym,</hi> and Town of <hi>Carrickfergus, Francis Stafford, Arthur Uppton</hi> and <hi>William Leſley</hi> Eſquires.</item>
+               <item>For the County of <hi>Armagh,</hi> Sir <hi>George Atcheſon, Arthur Brownlow, Ed<g ref="char:EOLhyphen"/>ward Richardſon,</hi> and <hi>Francis Chambers,</hi> Eſquires.</item>
+               <item>For the County of <hi>Tyrone, William Moore, Henry Mervin,</hi> and <hi>Mathew Combes</hi> Eſquires.</item>
+               <item>For the City and County of <hi>Londonderry,</hi> Collonell <hi>William Scicill, George Phillips,</hi> and <hi>Thomas Dawſon</hi> Eſquires.</item>
+               <item>For the County of <hi>Donegall, George King, William Dutton</hi> and <hi>Charles Hamilton</hi> Eſquires.</item>
+               <item>For the County of <hi>Monaghan, Thomas Cooke, Michaell Pockerdge, William Barton</hi> and <hi>James Curry,</hi> Eſquires.</item>
+               <item>For the County of <hi>Cavan, Humphry Perrott, Samuel Townely, Thomas Gwilliams</hi> Eſquires and Captain <hi>Francis Hamilton.</hi>
+               </item>
+               <pb facs="tcp:104832:3"/>
+               <item>For the County of <hi>Fermanagh,</hi> Sir <hi>Michaell Cole,</hi> Sir <hi>Gerrard Erwin,</hi> Captain <hi>William Coſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> and <hi>Hugh Mountgomery,</hi> Eſquires.</item>
+            </list>
+            <p>And We do hereby alſo in his Majeſties Name <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and require all and every the Sheriffs and Iuſtices of the Peace of the ſeveral and reſpe<g ref="char:EOLhyphen"/>ctive Counties in this Kingdom and alſo all and every the Commiſſioned Officers of His Majeſties Army, That they do forthwith ſearch for, ſeiſe upon and ſecure all ſuch Arms as they ſhall find reaſon to ſuſpect, to be in the poſſeſſion of or belonging unto any perſon or perſons of the Popiſh Re<g ref="char:EOLhyphen"/>ligion who have had no Licences from the Lord Lieutenant, or other chief Governor or Governors of this Kingdom, to keep or carry the ſame, and that from and after the expiration of the ſaid Twenty days next enſu<g ref="char:EOLhyphen"/>ing the date hereof, they do alſo ſearch for, ſeiſe upon and ſecure all ſuch Arms as they ſhall find reaſon to ſuſpect, to be in the poſſeſsion of, or be<g ref="char:EOLhyphen"/>longing unto any perſon or perſons of the Popiſh Religion, who at any time heretofore have obtained any ſuch Licences, and that they do alſo take care to have ſuch perſons in whoſe cuſtody any ſuch Arms ſhall be found contrary to this Proclamation, to be bound over with ſufficient ſureties to appear at the next Aſsizes or Seſsions to be held for ſuch County wherein ſuch Arms ſhall be found, and there to be proſecuted for their ſaid offence, and do alſo return the names of ſuch perſons to Vs or the Clerk of the Council, and that all ſuch Arms as ſhall be ſo ſeiſed upon or ſecured by them, be alſo brought into one of His Majeſties S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eres of Or<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nance and Munition in this Kingdom, or delivered to ſome of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> herein above mentioned, together with the names of ſuch perſons <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whom ſuch Arms were taken.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> We are informed, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat divers Arms belonging to per<g ref="char:EOLhyphen"/>ſons of the Popiſh Religion, have been taken away, ſeiſed or ſecured <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n purſuance of the ſaid former Proclamations by ſeveral perſons w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not ſent up any account thereof to Vs accordingly, as by the ſaid former Proclamations they were required. We do hereby ſtrictly charge and com<g ref="char:EOLhyphen"/>mand all Sheriffs, Iuſtices of peace, Officers of the Army, Store keep<g ref="char:EOLhyphen"/>ers, and all other perſons whatſoever, who have received, ſeiſed upon, taken or ſecured, or ſhall at any time hereafter receive, ſeiſe upon, take or ſecure any Arms by virtue of this or any former Proclamation, and have not yet ſent up any account thereof, that they do within Thirty days from the date hereof, ſend up or deliver to Vs, or the Clerk of the Council, an ex<g ref="char:EOLhyphen"/>act account of all ſuch Arms as they or any of them have already ſo recei<g ref="char:EOLhyphen"/>ved or taken, and that they do alſo ſend up the like account of all ſuch Arms as they or any of them ſhall at any time hereafter receive or take by virtue of this Proclamation within fourteen days after the receiving or taking thereof, together with the names of the perſons from whom ſuch Arms have been or ſhall be ſo received or taken, and the kind, quality and con<g ref="char:EOLhyphen"/>dition of ſuch Arms, and the places where the ſame ſhall be kept at the time offending up ſuch accompt; And hereof they are not to fail, as they will anſwer the contrary at their perils.</p>
+            <p>And whereas we are alſo informed that ſome Proteſtants contrary to our former Proclamations have kept and concealed armes belonging to
+<pb facs="tcp:104832:4"/>perſons of the Popiſh Religion, We do hereby require all Proteſtants within this Kingdom, to forbear the keeping or concealing<g ref="char:punc">▪</g> any ſuch Arms as do, or ſhall belong to any ſuch perſons of the Popiſh Religion, and to deliver the ſame up to the perſons hereby appointed to Receive the ſame, as they will anſwer the contrary at their Perils.</p>
+            <p>And whereas We are informed, that divers quantities of Gunpowder are now remaining in the hands and poſſesſion of divers Merchants, Shopkeepers, and other perſons in this Kingdom; We do hereby likewiſe Charge and Command all perſons of the Popiſh Religion, and all Mer<g ref="char:EOLhyphen"/>chants, Shopkeepers and Retailers whatſoever, as well Proteſtants as Papiſts, who have any quantitie of above one pound of Gunpowder in their poſſesſion, That within twenty dayes after the date of this Proclamation, they do ſend unto Vs or to the Clerk of the Council, a true, exact and particular accompt of what quantities of Gunpowder they or any of them have in their ſeveral hands or poſſesſions, or in the hands of any others for their uſe or by their privity, and that they do alſo from time to time, in like manner, when any Gunpowder ſhall hereafter come to their hands, or be bought by them, ſend up likewiſe a particular ac<g ref="char:EOLhyphen"/>compt thereof, and in caſe any perſon or perſons ſhall neglect or refuſe to ſend up ſuch an accompt as is hereby required of all ſuch Gunpowder, as already is or hereafter ſhall come to their hands, We ſhall take a moſt ſtrict and ſevere courſe for the ſeizeing, and ſecuring, all ſuch Gun<g ref="char:EOLhyphen"/>powder as ſhall be ſo concealed from Vs; And We do hereby further de<g ref="char:EOLhyphen"/>clare, that We ſhall look upon all ſuch perſons who ſhall neglect or refuſe to conform themſelves to this Proclamation, and to yield Obedience thereunto, or who contrary to the Tenor thereof, ſhall keep or carry any Arms, or conceal any Gunpowder from Vs, both as contemners of his Majeſties Royal Authority, and alſo as perſons deſigning the di<g ref="char:EOLhyphen"/>ſturbance of the publick Peace of this Kingdom.</p>
+            <closer>
+               <dateline>Given at the <hi>Council-Chamber</hi> in <hi>Dublin</hi> 
+                  <date>the 29th, day of <hi>November,</hi> 1680.</date>
+               </dateline>
+               <signed>Mich. Armach. C. Jo: D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Bl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſinton. Grara<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. Lanesborough<g ref="char:punc">▪</g> Hen. Midenſis. R. Coote. Rob. Fitz Gerald. Ca Dillon. Char. Meredith. Wm. Gore. John Keatinge. He. Hene. Will. Stewart. Ol. St. George. John Cole. Theo. Jones. Walter Plu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ket. John Eyre.</signed>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Benjamin Took</hi> and <hi>John Crook,</hi> Printers to the Kings moſt Excellent Majeſty; and are to be ſold by <hi>Mary Crook</hi> at His Majeſties <hi>Printing-Houſe</hi> in <hi>Skinner-row.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
